@@ -4,4 +4,4 @@ Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning 
 * [**Coursera link**](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 
 I'm simultaneously using the book Mathematics for Machine Learning by Marc Peter Deisenroth.
-* [**Book link**](https://mml-book.github.io/book/mml-book.pdf)
+* [**Book PDF link**](https://mml-book.github.io/book/mml-book.pdf)
